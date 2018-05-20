@@ -1,5 +1,5 @@
 # Alexa-RaspberryPi
-Run Amazon's Alexa on the RasoberryPi3 
+Run Amazon's Alexa on the RaspberryPi3 
 ### Amazon Alexa’ yı Raspberry Pi 3 de Çalıştırmak
 ### Motivasyon
 
